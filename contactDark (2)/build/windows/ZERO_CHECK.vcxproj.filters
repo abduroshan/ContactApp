@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dts17\Desktop\contactDark\contactDark (2)\build\windows\CMakeFiles\5fd5d09246f0b99277ca1488fc0b4f79\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FBC3DA18-D25C-3C44-93A2-05F08FF6B40A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

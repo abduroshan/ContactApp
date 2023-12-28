@@ -1,0 +1,10 @@
+^C:\USERS\DTS17\DESKTOP\CONTACTDARK\CONTACTDARK (2)\BUILD\WINDOWS\CMAKEFILES\5FD5D09246F0B99277CA1488FC0B4F79\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/dts17/Desktop/contactDark/contactDark (2)/windows" "-BC:/Users/dts17/Desktop/contactDark/contactDark (2)/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/dts17/Desktop/contactDark/contactDark (2)/build/windows/contact.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

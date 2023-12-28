@@ -1,0 +1,4 @@
+#Thu Dec 28 12:25:33 IST 2023
+base.0=C\:\\Users\\dts17\\Desktop\\contactDark\\contactDark (2)\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
